@@ -1,0 +1,22 @@
+{
+  "name": "my-vue-plugin",
+  "version": "1.0.0",
+  "description": "this is a test plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuanbingbingo/my-vue-plugin.git"
+  },
+  "keywords": [
+    "vue-plugin"
+  ],
+  "author": "libin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanbingbingo/my-vue-plugin/issues"
+  },
+  "homepage": "https://github.com/xuanbingbingo/my-vue-plugin#readme"
+}
